@@ -2,6 +2,25 @@
 <search> 
   
   
+    
+    <entry>
+      <title>My first blog</title>
+      <link href="/2026/04/15/My-first-blog/"/>
+      <url>/2026/04/15/My-first-blog/</url>
+      
+        <content type="html"><![CDATA[<p>我的博客test2</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> dive-into-deep-learning </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
   
   
 </search>
